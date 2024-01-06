@@ -1,0 +1,5 @@
+# hash symbol is used for comments
+secrets.txt
+
+# *.txt -- all files with extension txt will be ignored
+# * is a wildcard character
